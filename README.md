@@ -23,29 +23,47 @@ Coupons and Discounts: Highlights available discount codes or special offers.
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
-The key requirements for building a price comparison website include:
+User Management
 
-Data Aggregation: A system to gather and update product information, prices, and reviews from multiple e-commerce platforms through APIs or web scraping.
+User registration and login (email, social media, or guest access).
+User profiles with saved preferences, search history, and price alerts.
+Product Search and Comparison
 
-User Interface (UI): A clean, intuitive design that allows easy navigation, search, and comparison of products.
+Search bar with autocomplete functionality.
+Advanced filters (price range, brand, rating, specifications).
+Side-by-side product or service comparisons.
+Display of key details like price, availability, shipping costs, and discounts.
+Price Tracking and Alerts
 
-Database Management: A robust database to store product details, pricing data, user reviews, and other essential information.
+Historical price data to show trends.
+Notifications for price drops or special deals via email or app.
+Real-Time Price Updates
 
-Search and Filter Functionality: Advanced search features with filters for categories, price ranges, ratings, and brands.
+Integration with retailer APIs to fetch current prices and stock levels.
+Highlighting items with limited-time deals or discounts.
+Product Categories and Sorting
 
-Price Comparison Algorithm: An algorithm to compare product prices, features, and reviews from different sources efficiently.
+Organized categories for browsing (electronics, fashion, travel, etc.).
+Sorting by relevance, price (low to high/high to low), popularity, and ratings.
+User Reviews and Ratings
 
-Mobile Optimization: A responsive design or mobile app for users to compare prices on various devices.
+Aggregated reviews from multiple platforms (if feasible).
+Allow users to submit their own reviews and ratings.
+Affiliate and Partner Integration
 
-Security and Privacy: SSL encryption for secure transactions and user data protection.
+Integration of affiliate links for revenue generation.
+Backend tracking to measure conversions and partner performance.
+Mobile-Friendly Design
 
-SEO Optimization: Features like meta tags and content structure for better search engine rankings.
+Responsive web design for seamless usability on mobile devices.
+Option for a native or hybrid mobile app.
+Localization
 
-Affiliate Integration: System for integrating affiliate marketing links for monetization.
+Multi-language and multi-currency support to cater to a broader audience.
+Security Features
 
-Performance and Scalability: The ability to handle high traffic loads and a large volume of product data.
-
-Analytics: Tools for tracking user behavior, website performance, and conversion rates.
+Secure user authentication using OAuth or similar protocols.
+Data encryption for user information and transactions.
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
